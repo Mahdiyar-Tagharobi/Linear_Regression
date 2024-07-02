@@ -1,4 +1,4 @@
-# Project: Predicting Stock Prices (Linear Regression)**
+# Project: Predicting Stock Prices (Linear Regression)
 
 This code implements a Linear Regression model to predict stock prices based on company data in the "1000_Companies.csv" dataset.
 
